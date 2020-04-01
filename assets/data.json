@@ -1,8 +1,28 @@
 {
-    "confirmed": 1109,
-    "recovered": 5,
-    "deaths": 51,
+    "confirmed": 1284,
+    "recovered": 9,
+    "deaths": 57,
     "hospital_isolation": 127,
     "house_isolation": 926,
-    "detail":"56% de los casos confirmados son hombres y la mayor proporción de los casos corresponden al Distrito nacional con un 42%, Santo Domingo con un 13%, Santiago con un 11% y Duarte con un 8%. En relación a los fallecimientos la mediana de edad es de 63 años. El 76% eran hombres. El 71% de las defunciones corresponden al Distrito nacional con nueve, la provincia Duarte con 22 y Santo Domingo con cinco. El 66% de los casos sospechosos reportados al Sistema Nacional de Vigilancia Epidemiológica (SINAVE), ha sido descartado. Otros 24 casos sospechosos están a la espera de resultados."
+    "detail":"Hasta el 30 de marzo, en la República Dominicana se han reportado 1109 casos confirmados de COVID-19 (208 nuevos casos), de los cuales se encuentran 127 se en aislamiento hospitalario, 926 en aislamiento domiciliario, cinco (5) recibieron el alta médica y 51 fallecieron (9 nuevas de-funciones) (letalidad=5%). El 56% (623/1109) de los casos confirmados son hombres. Por lugar de residencia, la mayor pro-porción de los casos corresponde al Distrito Nacional (42%), Santo Domingo (13%), Santiago (11%) y Duarte (8%) (ver más detalles en figura 2). En relación a los fallecimientos, la mediana de edad es de 63 años, el 76% (39/51) eran hombres. Por lugar de residencia, los fallecimientos corresponden principalmente a Duarte (22), Distrito Nacional (9) y Santo Domingo (5), representando el 71% (36/51). Hasta la fecha, del total de casos sospechosos reportados al SINAVE, el 66% (2146/3255) fueron descartados por laboratorio. Otros 24 casos sospechosos están en espera de resultados.",
+    "films":[
+        {
+            "title":"¿Qué Nos Está Pasando?",
+            "url": "https://www.youtube.com/embed/9pWr4hLSzyo",
+            "channel": "Date un blog",
+            "link":""
+        },
+        {
+            "title":"Cuánto tiempo más seguiremos en cuarentena por el coronavirus",
+            "url": "https://www.youtube.com/embed/9mFd0Qpo4D4",
+            "channel": "Platzi",
+            "link":""
+        },
+        {
+            "title":"[LIVE] Coronavirus Pandemic: Real Time Counter, World Map, News",
+            "url": "https://www.youtube.com/embed/qgylp3Td1Bw",
+            "channel": "",
+            "link":""
+        }
+    ]
 }
