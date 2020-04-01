@@ -7,16 +7,28 @@
     "detail":"Hasta el 30 de marzo, en la República Dominicana se han reportado 1109 casos confirmados de COVID-19 (208 nuevos casos), de los cuales se encuentran 127 se en aislamiento hospitalario, 926 en aislamiento domiciliario, cinco (5) recibieron el alta médica y 51 fallecieron (9 nuevas de-funciones) (letalidad=5%). El 56% (623/1109) de los casos confirmados son hombres. Por lugar de residencia, la mayor pro-porción de los casos corresponde al Distrito Nacional (42%), Santo Domingo (13%), Santiago (11%) y Duarte (8%) (ver más detalles en figura 2). En relación a los fallecimientos, la mediana de edad es de 63 años, el 76% (39/51) eran hombres. Por lugar de residencia, los fallecimientos corresponden principalmente a Duarte (22), Distrito Nacional (9) y Santo Domingo (5), representando el 71% (36/51). Hasta la fecha, del total de casos sospechosos reportados al SINAVE, el 66% (2146/3255) fueron descartados por laboratorio. Otros 24 casos sospechosos están en espera de resultados.",
     "films":[
         {
+            "title":"Entrevista al presidente del Colegio Médico",
+            "url": "https://www.youtube.com/embed/qcn8_6twyvQ",
+            "channel": "Noticias SIN",
+            "link":"https://www.youtube.com/channel/UCbBIwG4LJfQyM4ZdoiujBxg"
+        },
+        {
             "title":"¿Qué Nos Está Pasando?",
             "url": "https://www.youtube.com/embed/9pWr4hLSzyo",
             "channel": "Date un blog",
-            "link":""
+            "link":"https://www.youtube.com/channel/UCQX_MZRCaluNKxkywkLEgfA"
         },
         {
             "title":"Cuánto tiempo más seguiremos en cuarentena por el coronavirus",
             "url": "https://www.youtube.com/embed/9mFd0Qpo4D4",
             "channel": "Platzi",
-            "link":""
+            "link":"https://www.youtube.com/user/mejorandolaweb"
+        },
+        {
+            "title":"¿Cómo PARAR el CORONAVIRUS/COVID-19? Esta es la estrategia | ft. @Date un Vlog",
+            "url": "https://www.youtube.com/embed/E2GwoNisZj0",
+            "channel": "GlóbuloAzul",
+            "link":"https://www.youtube.com/channel/UCNoYp3IUVPGowDEqDp3RvBQ"
         },
         {
             "title":"[LIVE] Coronavirus Pandemic: Real Time Counter, World Map, News",
