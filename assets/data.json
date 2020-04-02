@@ -1,11 +1,31 @@
 {
-    "confirmed": 1284,
-    "recovered": 9,
-    "deaths": 57,
+    "confirmed": 1380,
+    "recovered": 16,
+    "deaths": 60,
     "hospital_isolation": 127,
     "house_isolation": 926,
+    "tracker":[
+        {
+            "date":"1/4/2020",
+            "confirmed": 1284,
+            "recovered": 9,
+            "deaths": 57
+        },
+        {
+            "date":"2/4/2020",
+            "confirmed": 1380,
+            "recovered": 9,
+            "deaths": 60
+        }
+    ],
     "detail":"Hasta el 30 de marzo, en la República Dominicana se han reportado 1109 casos confirmados de COVID-19 (208 nuevos casos), de los cuales se encuentran 127 se en aislamiento hospitalario, 926 en aislamiento domiciliario, cinco (5) recibieron el alta médica y 51 fallecieron (9 nuevas de-funciones) (letalidad=5%). El 56% (623/1109) de los casos confirmados son hombres. Por lugar de residencia, la mayor pro-porción de los casos corresponde al Distrito Nacional (42%), Santo Domingo (13%), Santiago (11%) y Duarte (8%) (ver más detalles en figura 2). En relación a los fallecimientos, la mediana de edad es de 63 años, el 76% (39/51) eran hombres. Por lugar de residencia, los fallecimientos corresponden principalmente a Duarte (22), Distrito Nacional (9) y Santo Domingo (5), representando el 71% (36/51). Hasta la fecha, del total de casos sospechosos reportados al SINAVE, el 66% (2146/3255) fueron descartados por laboratorio. Otros 24 casos sospechosos están en espera de resultados.",
     "films":[
+        {
+            "title":"MÉDICO REACCIONA A MITOS SOBRE EL COVID19",
+            "url": "https://www.youtube.com/embed/SU3VD-F5qZo",
+            "channel": "Mr Doctor Oficial",
+            "link":"https://www.youtube.com/channel/UC2Rgt8XF_37FEjO_UHYTYgQ"
+        },
         {
             "title":"Entrevista al presidente del Colegio Médico",
             "url": "https://www.youtube.com/embed/qcn8_6twyvQ",
