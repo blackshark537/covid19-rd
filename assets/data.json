@@ -1,9 +1,9 @@
 {
-    "confirmed": 1380,
+    "confirmed": 1488,
     "recovered": 16,
-    "deaths": 60,
-    "hospital_isolation": 127,
-    "house_isolation": 926,
+    "deaths": 68,
+    "hospital_isolation": 198,
+    "house_isolation": 1206,
     "tracker":[
         {
             "date":"1/4/2020",
@@ -16,6 +16,12 @@
             "confirmed": 1380,
             "recovered": 9,
             "deaths": 60
+        },
+        {
+            "date":"3/4/2020",
+            "confirmed": 1488,
+            "recovered": 16,
+            "deaths": 68
         }
     ],
     "detail":"El ministro de Salud Pública, Rafael Sánchez Cárdenas, brinda los detalles sobre el avance del COVID-19 en República Dominicana, en vivo en el boletín #14 correspondiente a este jueves 2 de abril. En el que se informaron 1,380 casos confirmados, 60 fallecimientos, 16 recuperados y 2,638 pruebas que dieron negativo. Durante el boletín 13 el funcionario informó que los decesos por el virus ascendieron a 57 y a 1,284 los casos positivos.",
