@@ -1,7 +1,7 @@
 {
-    "confirmed": 1488,
-    "recovered": 16,
-    "deaths": 68,
+    "confirmed": 1745,
+    "recovered": 24,
+    "deaths": 82,
     "hospital_isolation": 198,
     "house_isolation": 1206,
     "tracker":[
@@ -22,9 +22,15 @@
             "confirmed": 1488,
             "recovered": 16,
             "deaths": 68
+        },
+        {
+            "date":"5/4/2020",
+            "confirmed": 1745,
+            "recovered": 24,
+            "deaths": 82
         }
     ],
-    "detail":"La mayor proporción de los casos correspondientes el Distrito Nacional con el 40 por ciento; Santo Domingo, 14 por ciento; Santiago, con 12 por ciento; Duarte, con 8 por ciento y La Vega, con 6 por ciento. Dijo que 35 personas infectadas corresponden a personal de salud. Mientras que el 65 por ciento de los casos sospechosos fueron descartados por laboratorios. or otro lado, el 78 por ciento de las muertes corresponden a hombre;  la mediana de edad 62 años y el 16 por ciento de los fallecidos tenía hipertensión y diabetes. De los infectados entre siete u ocho infectados son policías, y 17 son sospechosos de portar el virus. El ministro dijo que 24 muertos son de Duarte; 11 en el Distrito Nacional 11; 8 en Santo Domingo, representando el 63 por ciento del total de fallecimientos. Dijo que hay cuatro provincias confirmadas con transmisión comunitaria el Distrito Nacional, Santo Domingo, Duarte y La Vega.",
+    "detail":"El 56 por ciento de los casos confirmados son hombres. Por lugar de residencia, la mayor proporción de los casos corresponde al Distrito Nacional (38%); Santo Domingo (15%); Santiago (11%); Duarte (8%) y La Vega (6%).",
     "films":[
         {
             "title":"MÉDICO REACCIONA A MITOS SOBRE EL COVID19",
