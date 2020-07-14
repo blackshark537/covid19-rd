@@ -1,9 +1,9 @@
 {
-    "confirmed": 1745,
-    "recovered": 24,
-    "deaths": 82,
-    "hospital_isolation": 198,
-    "house_isolation": 1206,
+    "confirmed": 46305,
+    "recovered": 23134,
+    "deaths": 910,
+    "hospital_isolation": 3451,
+    "house_isolation": 18810,
     "tracker":[
         {
             "date":"1/4/2020",
@@ -28,10 +28,22 @@
             "confirmed": 1745,
             "recovered": 24,
             "deaths": 82
+        },
+        {
+            "date":"14/7/2020",
+            "confirmed": 46305,
+            "recovered": 23134,
+            "deaths": 910
         }
     ],
-    "detail":"El 56 por ciento de los casos confirmados son hombres. Por lugar de residencia, la mayor proporción de los casos corresponde al Distrito Nacional (38%); Santo Domingo (15%); Santiago (11%); Duarte (8%) y La Vega (6%).",
+    "detail": "En las últimas 24 horas se realizaron 2,101 pruebas PCR para detectar coronavirus, de las que 799 resultaron positivas, con lo que suman 46,305 las personas que se han contagiado de la enfermedad en República Dominicana. Además, se contabilizaron 7 nuevas muertes por esta causa, para un total de 910 decesos. La tasa de letalidad acumulada se sitúa en 1.97 %. La información está contenida en el boletín #117 emitido este martes 14 de julio por el Ministerio de Salud Pública, que cifra en 22,261 los casos activos.",
     "films":[
+        {
+            "title":"Rueda de Prensa Salud Pública sobre coronavirus | Boletín #117",
+            "url": "https://www.youtube.com/embed/ExxVFUQvxBY",
+            "channel": "Canal 4RD",
+            "link":"https://www.youtube.com/channel/UCRJRt0AkX6aX5Yrzzmw-VMQ"
+        },
         {
             "title":"MÉDICO REACCIONA A MITOS SOBRE EL COVID19",
             "url": "https://www.youtube.com/embed/SU3VD-F5qZo",
